@@ -3,3 +3,5 @@
 
 
 #MODEL2 : This is done for knowing the ideas on footer,header,ordered list,unordered list.
+
+#MODEL3 : This is registration form using html.
